@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Computer Engineering Student at Stevens Institute of Technology
+Key Repositories:  
+[IR Tranceiver Project](https://github.com/jshepitka/CPE487_Project/tree/main/.UPDATED%20FOR%20DEMO/IR%20Transmitter) (VHDL files for use in Vivado)  
+[MIPS Simulator in C++](https://github.com/concept-inversion/ML-simulation-learning/tree/main)
 <!--
 **christianOConnell/christianOConnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
